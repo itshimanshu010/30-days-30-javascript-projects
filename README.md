@@ -10,3 +10,7 @@ To-Do List App
 Password Generator
 
 ![home (2)](https://github.com/itshimanshu010/WebApps/assets/55348957/ed745e28-becc-495c-8f67-abb10c823688)
+
+QR Code Generator
+
+![QR](https://github.com/itshimanshu010/WebApps/assets/55348957/651f0de5-4ac5-4d48-96b3-d3452dadbcab)
