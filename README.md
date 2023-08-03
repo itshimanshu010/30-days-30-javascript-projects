@@ -20,7 +20,9 @@ QR Code Generator
 -----------------------------------------------
 -----------------------------------------------
 Notes App
-![Screenshot 2023-08-03 195807](https://github.com/itshimanshu010/WebApps/assets/55348957/f58581ad-3e6a-4dfa-9d2e-22584ee51bb9)
+
+![Notes](https://github.com/itshimanshu010/WebApps/assets/55348957/01f3d940-61d5-4e62-a81a-3f810cc0adf9)
+
 -----------------------------------------------
 -----------------------------------------------
 
