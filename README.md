@@ -39,5 +39,9 @@ Calculator
 
 ![Calculator](https://github.com/itshimanshu010/WebApps/assets/55348957/ce695bd6-1479-4508-a75f-f6770a91e1a6)
 
+
 -----------------------------------------------
 -----------------------------------------------
+Quiz App 
+
+![Quiz App](https://github.com/itshimanshu010/WebApps/assets/55348957/783a51e6-adfc-4b6b-afa8-f48474b717fa)
