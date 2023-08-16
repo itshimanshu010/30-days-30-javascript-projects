@@ -92,3 +92,10 @@ Interactive Feedback Design
 Drink Water
 
 ![Drink Water](https://github.com/itshimanshu010/WebApps/assets/55348957/43bbf776-da96-47fa-93ff-c8fd19808709)
+
+-----------------------------------------------
+-----------------------------------------------
+Mini Calendar
+
+![Mini](https://github.com/itshimanshu010/WebApps/assets/55348957/0e79a3e8-10b5-4fd2-9d85-0090e2be0ab6)
+
