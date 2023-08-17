@@ -99,3 +99,8 @@ Mini Calendar
 
 ![Mini](https://github.com/itshimanshu010/WebApps/assets/55348957/0e79a3e8-10b5-4fd2-9d85-0090e2be0ab6)
 
+-----------------------------------------------
+-----------------------------------------------
+Tic Tac Toe
+
+![tic](https://github.com/itshimanshu010/WebApps/assets/55348957/4e83d44d-374c-4d8f-9491-a1d5726e0ef7)
