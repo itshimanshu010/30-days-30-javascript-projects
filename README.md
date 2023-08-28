@@ -128,3 +128,9 @@ Day 21 Live Code Editor
 Day 22 Form Validation
 
 ![form](https://github.com/itshimanshu010/WebApps/assets/55348957/7e144655-553d-4612-86ea-61bc45399f1d)
+
+-----------------------------------------------
+-----------------------------------------------
+Day 23 Digital Clock
+
+![clock](https://github.com/itshimanshu010/WebApps/assets/55348957/2414a5a8-ac48-4a21-a21c-a0adbd38cdbe)
