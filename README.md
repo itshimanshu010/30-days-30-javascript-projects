@@ -134,3 +134,10 @@ Day 22 Form Validation
 Day 23 Digital Clock
 
 ![clock](https://github.com/itshimanshu010/WebApps/assets/55348957/6365f01a-6c03-464a-845b-02a1c46f0b01)
+
+-----------------------------------------------
+-----------------------------------------------
+Day 24 Piano 
+
+![piano](https://github.com/itshimanshu010/WebApps/assets/55348957/d3dd9773-f5ee-489d-984a-79e25d9923e4)
+
