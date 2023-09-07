@@ -147,5 +147,9 @@ Day 25 Gradient Color Generator
 
 ![color](https://github.com/itshimanshu010/WebApps/assets/55348957/9640a6f0-55e4-4712-be45-44ae4bff84f1)
 
+-----------------------------------------------
+-----------------------------------------------
+Day 26 Image Gallery
 
+![image](https://github.com/itshimanshu010/30Days30JavaScriptProjects_WebApps/assets/55348957/0fd376fc-fb69-47a8-8918-b31df1d95db4)
 
