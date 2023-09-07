@@ -141,3 +141,11 @@ Day 24 Piano
 
 ![piano](https://github.com/itshimanshu010/WebApps/assets/55348957/d3dd9773-f5ee-489d-984a-79e25d9923e4)
 
+-----------------------------------------------
+-----------------------------------------------
+Day 25 Gradient Color Generator
+
+![color](https://github.com/itshimanshu010/WebApps/assets/55348957/9640a6f0-55e4-4712-be45-44ae4bff84f1)
+
+
+
