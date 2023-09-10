@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mediaqueries.css">
+    
+</head>
+<body>
+    <nav id="header-nav">
+        <div class="logo">Himanshu Jaiswal</div>
+        <div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#internship">Internship</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <nav id="main-nav">
+        <div class="logo">Himanshu Jaiswal</div>
+            <div class="main-menu">
+                <div class="main-icon" onclick="toggleMenu()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="menu-links">
+                    <li><a href="#about" onclick="toggleMenu()">About</a></li>
+                    <li><a href="#internship" onclick="toggleMenu()">Internship</a></li>
+                    <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                    <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+                </div>
+            </div>
+        
+    </nav>
+
+    <section id="profile">
+        <div class="section_pic-container">
+            <img src="profile-pic.jpg" alt="Himanshu Jaiswal Profile Picture">
+        </div>
+        <div class="section_text">
+            <p class="section_text_p1">Hello, I'm</p>
+            <h1 class="title">Himanshu Jaiswal</h1>
+            <p class="section_text_p2">Frontend Developer</p>
+            <div class="btn-container">
+                <button class="btn btn-color-2" onclick="window.open('resume.pdf')">Download CV</button>
+
+                <button class="btn btn-color-1" onclick="location.href='./#contact'">Contact Info</button>
+            </div>
+            <div id="socials-container">
+                <img src="linkedin.png" alt="Linkedin Profile" class="icon" onclick="location.href='https://www.linkedin.com/in/itshimanshu010/'">
+                <img src="github.png" alt="GitHub Profile" class="icon" onclick="location.href='https://github.com/itshimanshu010'">
+
+            </div>
+        </div>
+    </section>
+
+    <section id="about">
+
+        <p class="section_text_p1">Get To Know More</p>
+        <h1 class="title">About Me</h1>
+
+        <div class="section-container">
+            <div class="section_pic-container">
+                <img src="about-pic.png" alt="Profile Pic" class="about-pic">
+            </div>
+
+             <div class="about-details-container">
+
+                 <div class="about-containers">
+                     <div class="details-container">
+                         <img src="internship.png" alt="Internship" class="icon">
+                         <h3>Internship</h3>
+                         <p>2+ Months <br> Frontend Developement </p>
+                     </div>
+                     <div class="details-container">
+                        <img src="education.png" alt="Education" class="icon">
+                        <h3>Education</h3>
+                        <p>B.C.A Bachelor's Degree<br> M.C.A Master's Degree</p>
+                     </div>
+                 </div>
+                 <div class="text-container">
+                    <p>Himanshu Jaiswal is a dedicated and aspiring computer science enthusiast currently pursuing a Master's degree in Computer Applications at KIET Group of Institutions. With a passion for programming and a keen interest in both back-end and front-end development, Himanshu possesses a solid command over programming languages like C, C++, and Java.
+
+                        </p>
+                 </div>
+             </div>
+        </div>
+        <img src="arrow.png" alt="arrow" class="icon arrow" onclick="location.href='./#internship'">
+
+    </section>
+
+    <section id="internship">
+        <p class="section_text_p1">Explore My</p>
+        <h1 class="title">Experience</h1>
+        <div class="internship-details-container">
+            <div class="about-containers">
+                <div class="details-container">
+                    <h2 class="internship-sub-title">Frontend Developement</h2>
+                    <div class="article-container">
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>HTML</h3>
+                                <p>Experienced</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>CSS</h3>
+                                <p>Intermediate</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>JavaScript</h3>
+                                <p>Basic</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>TypeScript</h3>
+                                <p>Basic</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>React JS</h3>
+                                <p>Basic</p>
+                            </div> 
+                        </article>
+                    
+                    </div>
+                </div>
+                <div class="details-container">
+                    <h2 class="internship-sub-title">Programming Languages</h2>
+                    <div class="article-container">
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>C</h3>
+                                <p>Experienced</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>C++</h3>
+                                <p>Basic</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="checkmark.png" alt="Experience" class="icon">
+                            <div>
+                                <h3>Java</h3>
+                                <p>Basic</p>
+                            </div>
+                        </article>
+                        
+                    
+                    </div>
+                </div>
+            </div>
+        </div>
+        <img src="arrow.png" alt="arrow" class="icon arrow" onclick="location.href='./#projects'">
+        
+    </section>
+
+    <section id="projects">
+        <p class="section_text_p1">Browse My Recent</p>
+        <h1 class="title">Projects</h1>
+        <div class="internship-details-container">
+            <div class="about-containers">
+            <div class="details-container color-container">
+                <div class="article-container">
+                    <img src="project-1.png" alt="project1" class="project-img">
+                </div>
+                 <h2 class="internship-sub-title project-title">Color Generator</h2>
+                <div class="btn-container">
+                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/itshimanshu010/30Days30JavaScriptProjects_WebApps/tree/main/Gradient%20Color%20Generator'">GitHub</button>
+                 </div>
+            </div>
+            <div class="details-container color-container">
+                <div class="article-container">
+                    <img src="project-2.png" alt="project2" class="project-img">
+                </div>
+                 <h2 class="internship-sub-title project-title">QR Generator</h2>
+                <div class="btn-container">
+                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/itshimanshu010/30Days30JavaScriptProjects_WebApps/tree/main/QR%20Code%20Generator'">GitHub</button>
+                 </div>
+            </div>
+            <div class="details-container color-container">
+                <div class="article-container">
+                    <img src="project-3.png" alt="project3" class="project-img">
+                </div>
+                 <h2 class="internship-sub-title project-title">Weather App</h2>
+                <div class="btn-container">
+                    <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/itshimanshu010/30Days30JavaScriptProjects_WebApps/tree/main/Weather_App'">GitHub</button>
+                 </div>
+            </div>
+         </div>
+
+        </div> 
+        
+        <img src="arrow.png" alt="arrow" class="icon arrow" onclick="location.href='./#contact'">
+    </section>
+
+    <section id="contact">
+        <p class="section_text_p1">Get in Touch</p>
+        <h1 class="title">Contact Me</h1>
+        <div class="contact-info-upper-container">
+            <div class="contact-info-container">
+                <img src="email.png" alt="Email" class="icon contact-icon email-icon">
+                <p><a href="mailto:himanshu.mau1999@gmail.com">himanshu.mau1999@gmail.com</a></p>
+            </div>
+            
+                <div class="contact-info-container">
+                    <img src="linkedin.png" alt="LinkedIn" class="icon contact-icon">
+                    <p><a href="https://www.linkedin.cam/in/itshimanshu010/">LinkedIn</a></p>
+                </div>
+        </div>
+    </section>
+
+    <footer>
+        <nav>
+            <div class="nav-links-container">
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#internship">Internship</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <p>Copyright &#169; 2023 Himanshu Jaiswal. All Rights Reserved. </p>
+    </footer>
+
+<script src="script.js"></script>    
+</body>
+</html>
