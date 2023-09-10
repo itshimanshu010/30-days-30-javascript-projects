@@ -49,13 +49,46 @@ body {
   font-weight: 600;
   border-radius: 0.3em;
 }
-
-
 img {
   display: block;
   width: 50%;
   margin: 1.8em auto 0 auto;
 }
+
+
+.details {
+  background-color: #f4c531;
+  position: relative;
+  margin: -4.3em 0 0 0;
+  text-align: center;
+  padding: 0.6em 0;
+}
+
+
+.details h2 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+
+.details h4 {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+
+#show-recipe {
+  font-size: 1em;
+  position: relative;
+  left: 75%;
+  padding: 0.9em 0.6em;
+  background-color: #f4c531;
+  border: none;
+  top: 1.5em;
+  border-radius: 0.3em;
+  font-weight: 600;
+}
+
 
 #recipe {
   position: absolute;
@@ -91,38 +124,6 @@ img {
   border-radius: 0.3em;
 }
 
-.details {
-  background-color: #f4c531;
-  position: relative;
-  margin: -4.3em 0 0 0;
-  text-align: center;
-  padding: 0.6em 0;
-}
-
-
-.details h2 {
-  font-size: 1.2em;
-  font-weight: 600;
-}
-
-
-.details h4 {
-  font-size: 1em;
-  font-weight: 400;
-}
-
-
-#show-recipe {
-  font-size: 1em;
-  position: relative;
-  left: 75%;
-  padding: 0.9em 0.6em;
-  background-color: #f4c531;
-  border: none;
-  top: 1.5em;
-  border-radius: 0.3em;
-  font-weight: 600;
-}
 
 ul {
   font-size: 1em;
@@ -141,3 +142,4 @@ h3 {
   margin-top: 1.8em;
   color: #202030;
 }
+
