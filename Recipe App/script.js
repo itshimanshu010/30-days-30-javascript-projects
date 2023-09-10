@@ -1,4 +1,3 @@
-
 let result = document.getElementById("result");
 let searchBtn = document.getElementById("search-btn");
 let url = "https://www.themealdb.com/api/json/v1/1/search.php?s=";
@@ -12,6 +11,7 @@ searchBtn.addEventListener("click", () => {
       .then((response) => response.json())
       .then((data) => {
         let myMeal = data.meals[0];
+    
         let count = 1;
         let ingredients = [];
         for (let i in myMeal) {
@@ -23,7 +23,7 @@ searchBtn.addEventListener("click", () => {
             count += 1;
             ingredients.push(`${measure} ${ingredient}`);
           }
-        }
+  
 
         result.innerHTML = `
     <img src=${myMeal.strMealThumb}>
