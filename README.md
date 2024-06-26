@@ -1,4 +1,8 @@
 # 30 Days 30 JavaScript Projects (August 2023 - September 2023)
+
+Completed a challenge by building 30 JavaScript projects,ranging from games to utilities, demonstrating problem-solving
+skills, creativity, and a strong commitment to continuous learning
+-----------------------------------------------
 Day 1 Weather App
 
 
